@@ -1,0 +1,21 @@
+NOTES:
+
+- ML for predicting all-player appearance
+
+- parallel computing: combine both documents (+ compare normal and parallel computations)
+
+- github python
+
+- google drive
+
+- data cleaning: remove data not useful for our topic, stick to easy variables since beginning, remove estimations
+
+TODO:
+
+-combine datasets
+
+-cleaning combination of both datasets
+
+-nice explorative analysis of the cleaned data
+
+-clustering on this data
